@@ -1,0 +1,15 @@
+[{
+    "id": 1,
+    "name": "sofa",
+    "description": "A nice brown couch."
+},
+{
+    "id": 2,
+    "name": "lamp",
+    "description": "A bright lamp."
+},
+{
+    "id": 3,
+    "name": "chair",
+    "description": "A sturdy chair."
+}] 
